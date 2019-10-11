@@ -1,0 +1,16 @@
+{
+  "name": "ProductveWebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-page -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sophonias1.github.io/productvewebsite",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
